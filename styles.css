@@ -28,18 +28,18 @@ li{
     width: 33.33333333%;
 }
 #one{
-    background-color: blue;
+    background-color: black;
     height: 60px;
 }
 #two{
-    background-color: green;
+    background-color: white;
     height: 630px;
 }
 #three{
-    background-color: red;
+    background-color: black;
     height: 300px;
 }
 #four{
-    background-color: yellow;
+    background-color: white;
     height: 690px;
 }
